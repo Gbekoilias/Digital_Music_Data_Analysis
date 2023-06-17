@@ -6,4 +6,4 @@ This project is for beginners in SQL to analyze the music playlist database. You
 * pg_admin v7,4
 * PostgreSQL
 
-https://github.com/Gbekoilias/Digital_Music_Data_Analysis/blob/main/MusicDatabaseSchema.png
+https://github.com/Gbekoilias/Digital_Music_Data_Analysis/blob/39408fb76b8e14855c4be881188d920942730569/MusicDatabaseSchema.png
