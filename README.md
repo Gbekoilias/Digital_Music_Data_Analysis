@@ -5,6 +5,6 @@ This project is for beginners in SQL to analyze the music playlist database. You
 ## Database and Tools
 * pg_admin v7,4
 * PostgreSQL
-
 **Schema Music Store Database**
+
 ![alt text](https://github.com/Gbekoilias/Digital_Music_Data_Analysis/blob/39408fb76b8e14855c4be881188d920942730569/MusicDatabaseSchema.png)
