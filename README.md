@@ -6,3 +6,4 @@ This project is for beginners in SQL to analyze the music playlist database. You
 * pg_admin v7,4
 * PostgreSQL
 
+MusicDatabaseSchema.png
