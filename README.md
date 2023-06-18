@@ -1,3 +1,4 @@
+![alt text](https://github.com/Gbekoilias/Digital_Music_Data_Analysis/blob/main/Music%20Store%20Cover%20Photo.jpg)
 # Music_Store_Data_Analysis 🗂️
 SQL project to analyze 📊 online music 🎶 store data
 
