@@ -17,3 +17,4 @@ Each table contain at least a primary key and at least a foreign key as shown in
 
 ## Queestion set 1-Easy
 ### Who is the senior most employee based on job title?
+![alt text](screenchots/Screenshot (32).png)
