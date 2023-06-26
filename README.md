@@ -15,5 +15,5 @@ Each table contain at least a primary key and at least a foreign key as shown in
 
 ![alt text](https://github.com/Gbekoilias/Digital_Music_Data_Analysis/blob/39408fb76b8e14855c4be881188d920942730569/MusicDatabaseSchema.png)
 
-##Queestion set 1-Easy
-###Who is the senior most employee based on job title?
+## Queestion set 1-Easy
+### Who is the senior most employee based on job title?
